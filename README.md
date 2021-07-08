@@ -1,5 +1,5 @@
-・ pwd
-・ cd
+- pwd
+- cd
 ・ mkdir
 ・ git init
 ・ touch
